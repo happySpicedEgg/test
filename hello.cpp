@@ -1,7 +1,9 @@
 ﻿#include <iostream>
+using namespace std;
+//修改
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
 
