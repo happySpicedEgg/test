@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+using namespacestd;
 //修改
 int main()
 {
